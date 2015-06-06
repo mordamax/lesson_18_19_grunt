@@ -1,0 +1,19 @@
+{
+  "name": "lesson_18_19_sass_compass",
+  "version": "0.0.0",
+  "authors": [
+    "Maksym Hlukhovtsov <mhlukhovtsov@elance-odesk.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.x",
+    "angularjs": "~1.4.0"
+  }
+}

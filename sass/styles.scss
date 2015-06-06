@@ -1,0 +1,11 @@
+@import "compass/reset";
+@import "variables";
+@import "buttons";
+
+body {
+  background: #ccc;
+
+  .container {
+    max-width: $contentWidth;
+  }
+}

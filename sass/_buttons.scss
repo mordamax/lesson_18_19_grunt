@@ -1,0 +1,20 @@
+@import "compass/css3/border-radius";
+@import "variables";
+
+.btn {
+  border: 1px solid red;
+  @include border-radius(4px);
+}
+
+.btn-primary {
+  background: $color-primary;
+}
+
+.btn-success {
+  background: $color-success;
+}
+
+.btn-error {
+  background: $color-error;
+}
+
